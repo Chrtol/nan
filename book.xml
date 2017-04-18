@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+
+<booktable>
+    <book>
+        <title>The man and the error: invalid pointer</title>
+        <bookId>02</bookId>
+        <author>Self proclaimed C-guru</author>
+        <authorId>1337</authorId>
+    </book>
+    <book>
+        <title>5 tips to better allocate memory!</title>
+        <bookId>01</bookId>
+        <author>Java guru trying C</author>
+        <authorId>6969</authorId>
+    </book>
+
+</booktable>    
